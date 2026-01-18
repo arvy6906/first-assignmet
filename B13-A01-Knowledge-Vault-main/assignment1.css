@@ -151,3 +151,42 @@
 .cards p{
   margin-top: 16px;
 }
+.brain-light{
+  display: flex;
+  max-width: 1360px;
+  margin: 120px;
+  gap: 60px;
+}
+.brain-content{
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+}
+.brain-content h1{
+  margin-bottom: 16px;
+  max-width: 700px;
+}
+.solution{
+  color: #469165;
+  margin-bottom: 16px;
+}
+.extra-content{
+  margin-bottom: 16px;
+  color: #627382;
+}
+.brain-content ul{
+  padding: 0px;
+  list-style:none;
+ 
+}
+.brain-content li{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  text-align: left;
+}
+.brain-content img{
+  width: 20px;
+  height:20px ;
+}
